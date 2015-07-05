@@ -1,5 +1,0 @@
-integer user id
-varchar(20) username
-integer phone number
-integer authorization level
-integer uses
