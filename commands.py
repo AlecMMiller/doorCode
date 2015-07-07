@@ -24,7 +24,7 @@ class baseCmd(object):
 			string += "}"
 			return string
 
-	def getHelp(self): # Gives help with the command, in the format of list of alts followed by the help text
+	def getHelp(self): # Gives list of alts followed by the help text
 
 		return self.getAlts() + self.help
 
